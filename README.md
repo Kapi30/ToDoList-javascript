@@ -2,6 +2,8 @@
 A Simple To-Do List built with HTML, CSS, and JavaScript. This app allows users to manage tasks by adding, editing, deleting, sorting, and marking them as complete — with local storage support for data persistence.
 
 
+
+
 🚀 Features
 
 ✅ Add tasks with a title and due date
@@ -17,6 +19,8 @@ A Simple To-Do List built with HTML, CSS, and JavaScript. This app allows users 
 💾 Persistent storage using LocalStorage
 
 📱 Fully responsive design for mobile and desktop
+
+
 
 
 🛠️ Technologies Used
